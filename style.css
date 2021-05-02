@@ -69,7 +69,7 @@ html{
     border-radius: 15px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url('../img/back.jpeg');
+    background: rgba(0, 0, 0, 0.7) url('back.jpeg');
     background-size: cover;
     background-blend-mode: darken;
 }
